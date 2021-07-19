@@ -1,0 +1,158 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
+.my_header{
+    color: white;
+    font-size: 200px;
+    text-decoration: underline;
+    text-decoration-color: white;
+    background-image: url("background.jpg");
+    height: 310px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: Lobster;
+    font-size: 140px;
+    width: 95%;
+    justify-content: center;
+    border: gold 10px solid;
+    border-radius: 10px;
+}
+
+@font-face {
+    font-family: Lobster;
+    src: url("Lobster-Regular.ttf");
+}
+
+.ball{
+    background-image: url("ball.jpg");
+    height: 350px;
+    background-size: cover;
+    width: 80%;
+    border: 9px slateblue solid;
+    border-radius: 10px;
+    
+}
+
+.ball h1{
+   
+    font-size: 60px;
+    justify-content: center;
+    font-family: 'Pacifico', cursive;
+    color: white;
+}
+
+.ball p{
+    
+    font-size: 30px;
+    justify-content: center;
+    font-family: Lobster;
+    color: darkblue;
+   
+}
+
+.bottle{
+    background-image: url("bottle.jpg");
+    height: 350px;
+    background-size: cover;
+    width: 80%;
+    border: 9px slateblue solid;
+    border-radius: 10px;
+    
+}
+
+.bottle h1{
+   
+    font-size: 60px;
+    justify-content: center;
+    font-family: 'Pacifico', cursive;
+    color: white;
+}
+
+.bottle p{
+    
+    font-size: 30px;
+    justify-content: center;
+    font-family: Lobster;
+    color: cyan;
+   
+}
+
+.teddy{
+    background-image: url("teddy.jpg");
+    height: 350px;
+    background-size: cover;
+    width: 80%;
+    border: 9px slateblue solid;
+    border-radius: 10px;
+    
+}
+
+.teddy h1{
+   
+    font-size: 60px;
+    justify-content: center;
+    font-family: 'Pacifico', cursive;
+    color: white;
+}
+
+.teddy p{
+    
+    font-size: 30px;
+    justify-content: center;
+    font-family: Lobster;
+    color: gold;
+   
+}
+
+.head{
+    background-image: url("headphones.jpg");
+    height: 350px;
+    background-size: cover;
+    width: 80%;
+    border: 9px slateblue solid;
+    border-radius: 10px;
+    
+}
+
+.head h1{
+   
+    font-size: 60px;
+    justify-content: center;
+    font-family: 'Pacifico', cursive;
+    color: white;
+}
+
+.head p{
+    
+    font-size: 30px;
+    justify-content: center;
+    font-family: Lobster;
+    color: green;
+   
+}
+
+.glass{
+    background-image: url("glass3.jpg");
+    height: 350px;
+    background-size: cover;
+    width: 80%;
+    border: 9px slateblue solid;
+    border-radius: 10px;
+    
+}
+
+.glass h1{
+   
+    font-size: 60px;
+    justify-content: center;
+    font-family: 'Pacifico', cursive;
+    color: white;
+}
+
+.glass p{
+    
+    font-size: 30px;
+    justify-content: center;
+    font-family: Lobster;
+    color: green;
+   
+}
